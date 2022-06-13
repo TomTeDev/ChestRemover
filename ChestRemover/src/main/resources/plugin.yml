@@ -1,0 +1,4 @@
+name: ChestRemover
+version: '${project.version}'
+main: mucho.more.Main
+api-version: 1.17
